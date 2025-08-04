@@ -51,3 +51,4 @@ venv/
 
 # Ignore large data files that may contain sensitive information
 data/JIRA_OPEN_DATA_LARGESET.csv
+data/JIRA_OPEN_DATA_LARGESET_DATESHIFTED.csv

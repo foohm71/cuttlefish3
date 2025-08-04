@@ -49,6 +49,13 @@ venv/
 # Ignore Next.js build output
 .next/
 
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
 # Ignore large data files that may contain sensitive information
 data/JIRA_OPEN_DATA_LARGESET.csv
 data/JIRA_OPEN_DATA_LARGESET_DATESHIFTED.csv

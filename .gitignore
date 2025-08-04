@@ -48,3 +48,6 @@ venv/
 
 # Ignore Next.js build output
 .next/
+
+# Ignore large data files that may contain sensitive information
+data/JIRA_OPEN_DATA_LARGESET.csv
